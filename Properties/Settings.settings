@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="JobCatcher.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="proxyBool" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="proxyText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1:8888</Value>
+    </Setting>
+    <Setting Name="minimTray" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="closeTray" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="periodWork" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+    <Setting Name="letterWork" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Здравствуйте!{n}Меня заинтересовала ваша вакансия. Считаю, что мой опыт и профессиональные навыки соответствуют вашим требованиям.{n}Буду благодарен за обратную связь!</Value>
+    </Setting>
+    <Setting Name="letterFl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Здравствуйте!{n}Заинтересовал ваш проект. Готов обсудить подробности</Value>
+    </Setting>
+    <Setting Name="periodUpdateResume" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="periodFl" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="popup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="workEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="flEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="dateSort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dateOld</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
